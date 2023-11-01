@@ -20,6 +20,7 @@ public class SwitchDaysInMonthPrinter {
                 break;
             case (2):
                 System.out.println(28);
+                break;
             default:
                 System.out.println("wrong number!");
                 break;
